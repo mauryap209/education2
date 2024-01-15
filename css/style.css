@@ -557,8 +557,18 @@ h3 {
 
 
 
+ .icons a{
+    color: purple;
+    font-weight: bold;
+    text-decoration: none;
+   
 
-
+  }
+  .icons i{
+    font-size: 1px;
+  }
+  
+  
 
 
 
